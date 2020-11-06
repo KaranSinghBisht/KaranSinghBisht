@@ -1,5 +1,11 @@
-### Hi there 👋
+#### Heyyy! I'm Karan Singh Bisht <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+#### About Me
+I'm a student learning JavaScript and love Web Development!
+
+#### Stats: 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=KaranSinghBisht&theme=dark" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSinghBisht&theme=dark" />
 <!--
 **KaranSinghBisht/KaranSinghBisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
