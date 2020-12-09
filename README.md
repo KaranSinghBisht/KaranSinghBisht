@@ -2,7 +2,7 @@
 
 #### Heyyy! I'm Karan Singh Bisht <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### About Me
+### About Me
 I'm a student learning JavaScript and love Web Development!
 
 #### Stats: 
