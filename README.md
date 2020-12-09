@@ -6,8 +6,9 @@
 I'm a student learning JavaScript and love Web Development!
 
 #### Stats: 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=KaranSinghBisht&theme=dark" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSinghBisht&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=KaranSinghBisht&theme=dark" /> 
+
 <!--
 **KaranSinghBisht/KaranSinghBisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
