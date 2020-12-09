@@ -1,3 +1,5 @@
+<img src="./Banner.jpg">
+
 #### Heyyy! I'm Karan Singh Bisht <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### About Me
