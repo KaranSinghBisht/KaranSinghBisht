@@ -1,14 +1,11 @@
 <img src="./Banner.jpg">
 
-#### Heyyy! I'm Karan Singh Bisht <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### Heyyy! I'm Karan Singh Bisht
 
 ### About Me
-I'm a student learning JavaScript and love Web Development!
+Blockchain Developer [@Spider R&D](https://www.linkedin.com/company/spider-r-d) | DevOps Engineer [@Currents](https://www.linkedin.com/company/currents-nitt) | Sophomore EEE Student at NIT Trichy
 
-#### Stats: 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSinghBisht&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=KaranSinghBisht&theme=dark" /> 
-
+I write [blogs here](https://medium.com/@karanbishttt). 
 <!--
 **KaranSinghBisht/KaranSinghBisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
