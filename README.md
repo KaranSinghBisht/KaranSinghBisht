@@ -77,19 +77,6 @@ I love cryptography, blockchain, and security.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranSinghBisht&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSinghBisht&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSinghBisht&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### Latest Blog Posts
 
 - [Sealing Secrets with Threshold Cryptography](https://medium.com/@karanbishttt/sealing-secrets-with-threshold-cryptography-5d5cee96d648)
